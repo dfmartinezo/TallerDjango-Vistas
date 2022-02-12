@@ -1,16 +1,16 @@
 # Capturas Taller Vistas
 
-##Post Measurement##
+## Post Measurement ##
 ![Screenshot](Post.png)
 
-##Delete Measurement##
+## Delete Measurement ##
 ![Screenshot](Delete.png)
 
-##Get All Measurements##
+## Get All Measurements ##
 ![Screenshot](GetAll.png)
 
-##Get Measurement##
+## Get Measurement ##
 ![Screenshot](Get.png)
 
-##Update Measurement##
+## Update Measurement ##
 ![Screenshot](Put.png)
