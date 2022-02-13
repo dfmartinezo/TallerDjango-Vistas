@@ -1,20 +1,16 @@
-# Monitoring Views Workshop
+# Capturas Taller Vistas
 
-* if you want a easy installation use **pipenv\*** else use **requirements.txt**
+## Post Measurement ##
+![Screenshot](Post.png)
 
-**pipenv:** can be installed wih:
+## Delete Measurement ##
+![Screenshot](Delete.png)
 
-```bash
-pip install pipenv
-```
+## Get All Measurements ##
+![Screenshot](GetAll.png)
 
-dont forget to check if you have the right python version: 3.8
+## Get Measurement ##
+![Screenshot](Get.png)
 
-* Executing with pipenv 
-```bash
-pipenv run python {command}
-```
-Example:
-```bash
-pipenv run python manage.py makemigrations 
-```
+## Update Measurement ##
+![Screenshot](Put.png)
